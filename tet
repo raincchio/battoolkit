@@ -1,8 +1,9 @@
 
-
-https://www.yifile.com/file/VdbxJHrPlQ3ViRkS72+5.html
-https://www.yifile.com/file/Vof7dybBl1XViRkS7m6w.html
-https://www.yifile.com/file/XIT2JHTCklvViRwQ62ix.html
+https://www.yifile.com/file/AID0IiKVm1XVjhsU4m25.html
+https://www.yifile.com/file/Bo/zfyCVl13VjhsW6GG9.html
+https://www.yifile.com/file/UY77d3bPxg7VjhsW6W+9.html
+https://www.yifile.com/file/ANWhfybOm17VjhsW42Cx.html
+https://www.yifile.com/file/UdHwJ3aQlFTVjhsW7mi5.html
 
 把当前目录下面的file（不包括目录)，移动到/opt/shell
 find  .  -type f  -exec mv {}   /opt/shell   \;
