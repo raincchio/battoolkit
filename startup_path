@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+
+HKEY_LOCAL_MACHINE\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+
+HKEY_LOCAL_MACHINE\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
